@@ -1,3 +1,3 @@
-# plugin-ably
+# Bellows Ably Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/ably](https://bellows.dev/docs/plugins/ably)
